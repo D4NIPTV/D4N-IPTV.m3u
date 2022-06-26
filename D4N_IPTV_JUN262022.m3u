@@ -278,17 +278,12 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", GMA
 http://wayforward.xyz:25461/Stacy1/Stacy1/200488
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-
-
-transparent.png" group-title="ADDITIONAL", HBO ASIA-2 [HD]
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="ADDITIONAL", HBO ASIA-2 [HD]
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="ADDITIONAL", HBO ASIA-3 [HD]
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=40763&extension=ts&play_token=09BNfamMLv
 
-transparent.png" group-title="ADDITIONAL", HBO ASIA-3 [HD]
-http://clientsportals.tv/play/live.php?
-
-mac=00:1A:79:70:39:2a&stream=40763&extension=ts&play_token=09BNfamMLv
 #EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", HITS MUSIC NOW [HD]
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
