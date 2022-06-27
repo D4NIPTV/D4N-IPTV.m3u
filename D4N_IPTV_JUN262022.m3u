@@ -102,13 +102,13 @@ http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="TIVIMATE (FREEMIUM)", YO! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R742f1e59406ca5891fa359b2e2c708e8?rik=1bpQzCugV4ZRqw&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f03%2fMTV-Logo2010.png" group-title="TIVIMATE (FREEMIUM)", MTV BIGGEST POP [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV BIGGEST POP [HD]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="TIVIMATE (FREEMIUM)", MTV SPANKIN' NEW
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R742f1e59406ca5891fa359b2e2c708e8?rik=1bpQzCugV4ZRqw&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f03%2fMTV-Logo2010.png" group-title="TIVIMATE (FREEMIUM)", MTV BLOCK PARTY [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV BLOCK PARTY [HD]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="TIVIMATE (FREEMIUM)", THE BOX
@@ -232,19 +232,22 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", BRAVO U.S [HD]
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bravo-tv-logo-9E97EDC900-seeklogo.com.png" group-title="ADDITIONAL", BRAVO U.S [HD]
 http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100440
 
-#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", NICK JR. (WEST) [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ADDITIONAL", MTV 2 [HD]
+http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100434
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICK JR. (WEST) [HD]
 http://breakingcable.xyz:80/S7nSey5UX/8746100042/85893
 
-#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", NICK (WEST) [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICK (WEST) [HD]
 http://breakingcable.xyz:80/S7nSey5UX/8746100042/85895
 
-#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", NICKELODEON [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICKELODEON [HD]
 http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100438
 
 
