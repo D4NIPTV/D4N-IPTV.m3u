@@ -195,7 +195,7 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2018/12/5c0e720d7e3c4.png" group-title="TIVIMATE (FREEMIUM)", HELL'S KITCHEN on FILMRISE [HD]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/225-2256876_edge-sport-logo-png-png-download-edge-sport.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
+#EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="TIVIMATE (FREEMIUM)", FOX SPORTS 1 AU [HD]
