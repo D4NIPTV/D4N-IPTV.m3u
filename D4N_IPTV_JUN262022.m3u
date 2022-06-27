@@ -228,28 +228,14 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="TIVIMATE (FREEMIUM)", XPLORE CHANNEL [SD]
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/725-7255212_hallmark-movie-channel-logo-png-download-hallmark-movie.png" group-title="TIVIMATE (FREEMIUM)", HALLMARK MOVIES & MORE [HD]
+#EXTINF:-1 tvg-logo="https://cutewallpaper.org/24/hallmark-logo-png/download-advertise-on-h-mark-channel-comcast-spotlight-advertising--hallmark-channel-logo-white-png-image-with-no-background-pngkeycom.png" group-title="TIVIMATE (FREEMIUM)", HALLMARK MOVIES & MORE [HD]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bravo-tv-logo-9E97EDC900-seeklogo.com.png" group-title="ADDITIONAL", BRAVO (U.S) [HD]
-http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100440
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="ADDITIONAL", DISNEY CHANNEL (U.S) [HD]
-http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100395
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/273-2734677_disney-xd-fanmade-logo-by-therealcuddles-d9apg4y-new.png" group-title="ADDITIONAL", DISNEY XD (U.S) [HD]
-http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/119346
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ADDITIONAL", MTV [HD]
-http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100435
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ADDITIONAL", MTV 2 [HD]
-http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100434
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICK JR. (WEST) [HD]
 http://breakingcable.xyz:80/S7nSey5UX/8746100042/85893
@@ -257,8 +243,6 @@ http://breakingcable.xyz:80/S7nSey5UX/8746100042/85893
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICK (WEST) [HD]
 http://breakingcable.xyz:80/S7nSey5UX/8746100042/85895
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICKELODEON [HD]
-http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100438
 
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
