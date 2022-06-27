@@ -238,6 +238,9 @@ http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100440
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", DISNEY CHANNEL (U.S) [HD]
+http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100395
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="ADDITIONAL", MTV [HD]
 http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100435
 
@@ -256,7 +259,7 @@ http://line.365tv.xyz:8060/d0d003af3c34/rqbE9zsH3Lvv/100438
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
