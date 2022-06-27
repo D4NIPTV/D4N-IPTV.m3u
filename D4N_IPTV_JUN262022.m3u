@@ -233,10 +233,14 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", NICK JR. [HD]
+http://breakingcable.xyz:80/S7nSey5UX/8746100042/85893
+
+#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", NICK [HD]
+http://breakingcable.xyz:80/S7nSey5UX/8746100042/85895
 
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
