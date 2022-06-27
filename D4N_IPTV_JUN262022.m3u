@@ -171,7 +171,7 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TIVIMATE (FREEMIUM)", AMC [HD]
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (former Blue Ant Ent.) [SD]
@@ -180,7 +180,7 @@ http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", BLUE ANT ENTERTAINMENT 2 [FHD]
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8a/Rock_Extreme.png" group-title="TIVIMATE (FREEMIUM)", ROCK/BLU ANT EXTREME [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK/BLU ANT EXTREME [HD]
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="TIVIMATE (FREEMIUM)", HITS
