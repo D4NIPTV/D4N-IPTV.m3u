@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml"  refresh="3600"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDH614m/TIVIMATE-FREEMIUM.png" group-title="TIVIMATE (FREEMIUM)", BARKER CHANNEL
 https://ia802505.us.archive.org/29/items/D4N-001-FRM-BARKER-IPTV.MP4/D4N-IPTV-FREEMIUM.mp4
 
