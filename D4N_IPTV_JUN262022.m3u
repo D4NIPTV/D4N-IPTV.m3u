@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml"  refresh="3600"
+#EXTM3U url-tvg="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Philippines/mysky.com.ph.channels.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDH614m/TIVIMATE-FREEMIUM.png" group-title="TIVIMATE (FREEMIUM)", BARKER CHANNEL
 https://ia802504.us.archive.org/10/items/barker-ch/barker-ch.mp4
