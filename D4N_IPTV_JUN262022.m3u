@@ -121,9 +121,6 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TIVIMATE (FREEMIUM)", tVN [HD]
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TIVIMATE (FREEMIUM)", tVN (2) [HD]
 http://210.210.155.35/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TIVIMATE (FREEMIUM)", tVN MOVIES [HD]
@@ -224,6 +221,9 @@ http://203.77.246.50:5000/udp/239.1.2.136:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="TIVIMATE (FREEMIUM)", OUTDOOR CHANNEL [FHD]
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)", OUTSIDE TV
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="TIVIMATE (FREEMIUM)", XPLORE CHANNEL [SD]
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
