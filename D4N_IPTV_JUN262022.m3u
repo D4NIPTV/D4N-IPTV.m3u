@@ -186,6 +186,9 @@ http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png" group-title="TIVIMATE (FREEMIUM)", CRACKLE [FHD]
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pdga.com/files/u245721/outside_tv_logo.png" group-title="TIVIMATE (FREEMIUM)", OUTSIDE TV
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R3611811878e064b1214805d6623ec056?rik=TUbjtaI9hOu%2f%2bA&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2fd%2fd7%2fThe_HORRO%d0%af_Channel.png" group-title="TIVIMATE (FREEMIUM)", AMERICAN HORRORS [SD]
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
@@ -221,9 +224,6 @@ http://203.77.246.50:5000/udp/239.1.2.136:5000
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="TIVIMATE (FREEMIUM)", OUTDOOR CHANNEL [FHD]
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)", OUTSIDE TV
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="TIVIMATE (FREEMIUM)", XPLORE CHANNEL [SD]
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
