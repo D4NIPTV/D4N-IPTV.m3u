@@ -255,6 +255,9 @@ http://38.127.211.18/live/c2eds/ID/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/1200px-USA-Network-Logo.svg.png" group-title="ADDITIONAL", USA NETWORK (EAST) [HD]
 http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/scream/images/3/3f/VH1_Logo.png/" group-title="ADDITIONAL", VH1 USA (EAST) [HD]
+http://38.127.211.18/live/c2eds/VH1/HLS/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
