@@ -120,6 +120,9 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="TIVIMATE (FREEMIUM)", GMM25
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)", ZEE CINEMA [HD]
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TIVIMATE (FREEMIUM)", tVN [HD]
 http://210.210.155.35/dr9445/h/h20/index.m3u8
 
