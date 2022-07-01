@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDH614m/TIVIMATE-FREEMIUM.png" group-title="TIVIMATE (FREEMIUM)", BARKER CHANNEL
 https://ia902504.us.archive.org/10/items/barker-ch/BRKR-CH-JULY12022.mp4
 
