@@ -243,8 +243,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="ADDITIONAL", ESPN US
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="ADDITIONAL", ESPN USA [HD]
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="ADDITIONAL", ESPN 2 USA [HD]
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ID_Logo_Screen_Reverse.png" group-title="ADDITIONAL", INVESTIGATION DISCOVERY [HD]
 http://38.127.211.18/live/c2eds/ID/HLS/index.m3u8
