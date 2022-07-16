@@ -12,9 +12,6 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="TIVIMATE (FREEMIUM)", CNN PHILIPPINES [HD]
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Knowledge-channel.png/640px-Knowledge-channel.png" group-title="TIVIMATE (FREEMIUM)", KNOWLEDGE CHANNEL [SD]
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Pilipinashd-transbg-wh-v2_%281%29.png" group-title="TIVIMATE (FREEMIUM)", PILIPINAS HD on BEAM TV [SD]
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
 
@@ -60,12 +57,6 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjceWIY7QjcCtu-L_S4X76zipgPIy_PnSlaAFcZLw=s900-c-k-c0x00ffffff-no-rj" group-title="TIVIMATE (FREEMIUM)", LIFETV PH [SD]
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="TIVIMATE (FREEMIUM)", 
-https://
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eTndBpe.png" group-title="TIVIMATE (FREEMIUM)", ANIPLUS [SD]
-http://45.126.83.51/dr9445/h/h02/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CON TV ANIME [HD]
 https://contvanime-tcl.amagi.tv/playlist.m3u8
 
@@ -92,9 +83,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="TIVIMATE (FREEMIUM)", VEVO HIP-HOP (VAS) [FHD]
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV
-http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV HD INDIA
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
@@ -156,14 +144,8 @@ http://203.162.235.41:16908
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="TIVIMATE (FREEMIUM)", CNA [HD]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" group-title="TIVIMATE (FREEMIUM)", BBC WORLD NEWS ASIA-PACIFIC [SD]
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Global_National_2013.png" group-title="TIVIMATE (FREEMIUM)", GLOBAL NEWS NATIONAL
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-
-#EXTINF:-1 tvg-logo="https://findlogovector.com/wp-content/uploads/2022/04/vanity-fair-logo-vector-2022.png" group-title="TIVIMATE (FREEMIUM)", VANITY FAIR [HD]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="TIVIMATE (FREEMIUM)", FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -183,12 +165,6 @@ http://ip2121.com:8081/web1/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (former Blue Ant Ent.) [SD]
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", BLUE ANT ENTERTAINMENT 2 [FHD]
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK/BLU ANT EXTREME [HD]
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="TIVIMATE (FREEMIUM)", HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 
@@ -200,9 +176,6 @@ https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R3611811878e064b1214805d6623ec056?rik=TUbjtaI9hOu%2f%2bA&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2fd%2fd7%2fThe_HORRO%d0%af_Channel.png" group-title="TIVIMATE (FREEMIUM)", AMERICAN HORRORS [SD]
 http://170.178.189.66:1935/live/Stream1/.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2018/12/5c0e720d7e3c4.png" group-title="TIVIMATE (FREEMIUM)", HELL'S KITCHEN on FILMRISE [HD]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
@@ -225,9 +198,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title="TIVIMATE (FREEMIUM)", NASA TV [HD]
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6961734_preview.png" group-title="TIVIMATE (FREEMIUM)", NAT GEO [FHD]
-https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="TIVIMATE (FREEMIUM)", ANIMAL PLANET [SD]
 http://203.77.246.50:5000/udp/239.1.2.136:5000
 
@@ -237,38 +207,10 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="TIVIMATE (FREEMIUM)", XPLORE CHANNEL [SD]
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cutewallpaper.org/24/hallmark-logo-png/download-advertise-on-h-mark-channel-comcast-spotlight-advertising--hallmark-channel-logo-white-png-image-with-no-background-pngkeycom.png" group-title="TIVIMATE (FREEMIUM)", HALLMARK MOVIES & MORE [HD]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="ADDITIONAL", ESPN USA [HD]
-http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="ADDITIONAL", ESPN 2 USA [HD]
-http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/ID_Logo_Screen_Reverse.png" group-title="ADDITIONAL", INVESTIGATION DISCOVERY [HD]
-http://38.127.211.18/live/c2eds/ID/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="ADDITIONAL", NBA TV [HD]
-https://bit.ly/nbatvusa?/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICK JR. (WEST) [HD]
-http://breakingcable.xyz:80/S7nSey5UX/8746100042/85893
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="ADDITIONAL", NICK (WEST) [HD]
-http://breakingcable.xyz:80/S7nSey5UX/8746100042/85895
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/1200px-USA-Network-Logo.svg.png" group-title="ADDITIONAL", USA NETWORK (EAST) [HD]
-http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/scream/images/3/3f/VH1_Logo.png/" group-title="ADDITIONAL", VH1 USA (EAST) [HD]
-http://38.127.211.18/live/c2eds/VH1/HLS/index.m3u8
 
 
 
