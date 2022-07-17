@@ -269,7 +269,8 @@ https://stream.xpeer.xyz/playlist1/baahubali-2-conclusion-2017/master_480.m3u8#.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiNDM4NjYtZDMyMS00YTgyLWIzMWYtNmFhMjBiNWJiN2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="VOD (LIMITED TIME ONLY)", ANEK
 https://stream.xpeer.xyz/playlist1/anek-2022/master_480.m3u8#.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="VOD (LIMITED TIME ONLY)",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYw1ZgOo53aiZHNuncB62ym2ITQVsjYubloA&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", SPIDER MAN: NO WAY HOME
+https://stream.xpeer.xyz/playlist1/spider-man-no-way-home-2021/master_480.m3u8#.mp4
 
 
 
