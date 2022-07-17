@@ -219,6 +219,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png"  group-title="ADDITIONAL", NBA TV USA
 http://51.161.84.67/LB2022_NBA_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png"  group-title="ADDITIONAL", NBA TV USA (2)
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ADDITIONAL", STAR MOVIES [HD]
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
