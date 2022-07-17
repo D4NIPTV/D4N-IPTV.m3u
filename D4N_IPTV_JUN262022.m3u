@@ -162,6 +162,9 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 #EXTINF:-1 tvg-logo="https://re-how.net/wp-content/uploads/2021/04/d10071-98-460772-6.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA [HD]
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://re-how.net/wp-content/uploads/2021/04/d10071-98-460772-6.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA (2) [HD]
+http://210.210.155.37/dr9445/h/h141/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
