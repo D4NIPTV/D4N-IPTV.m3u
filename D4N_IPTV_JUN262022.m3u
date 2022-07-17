@@ -189,8 +189,8 @@ https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="TIVIMATE (FREEMIUM)", INSIGHT TV [HD]
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R3611811878e064b1214805d6623ec056?rik=TUbjtaI9hOu%2f%2bA&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2flogopedia%2fimages%2fd%2fd7%2fThe_HORRO%d0%af_Channel.png" group-title="TIVIMATE (FREEMIUM)", AMERICAN HORRORS [SD]
-http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="TIVIMATE (FREEMIUM)",Haunt TV (1080p)
+https://haunttv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
