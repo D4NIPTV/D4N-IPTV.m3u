@@ -248,6 +248,23 @@ https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/mas
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OGjABQk-IPKhJe0sHkuOwYvMP052V7bugQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", UNCHARTED
 https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u#.mp4
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAsI9S4pfkFnhCCPACYqqLxgWb3xniNElRw&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", FANTASTIC BEASTS: THE SECRETS OF DUMBLEDORE
+https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022/master_480.m3u8#.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtNJVqlJwFYWm9Q3FX4HfyuNQvI_lWNgRdw&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", THE LOST CITY
+https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8#.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzH9AQlr_-Sw1Qqb2fexoGkjpW6n8Qx3LoQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", SONIC THE HEDGEHOG
+https://stream.xpeer.xyz/playlist1/sonic-the-hedgehog-2-2022/master_480.m3u8#.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Z1tGc8w8M3n5PPpYkWowQS5ksymsjzuiWQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", THOR LOVE AND THUNDER
+https://stream.xpeer.xyz/playlist1/thor-love-and-thunder-2022/master_480.m3u8#.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsKXTTcm6BxOGEbSYb6d79OgCvzOlZECuQQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", K.G.F Chapter 2
+https://stream.xpeer.xyz/playlist1/k-g-f-chapter-2-2022/master_480.m3u8#.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="VOD (LIMITED TIME ONLY)",
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
