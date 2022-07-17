@@ -159,6 +159,9 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TIVIMATE (FREEMIUM)", AMC [HD]
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://re-how.net/wp-content/uploads/2021/04/d10071-98-460772-6.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA [HD]
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
@@ -209,10 +212,12 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png"  group-title="ADDITIONAL", NBA TV USA
+http://51.161.84.67/LB2022_NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ADDITIONAL", STAR MOVIES [HD]
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -223,10 +228,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png"  group-title="ADDITIONAL", NBA TV USA
-http://51.161.84.67/LB2022_NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="" group-title="ADDITIONAL",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
