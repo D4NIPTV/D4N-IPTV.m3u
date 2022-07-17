@@ -186,6 +186,9 @@ http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png" group-title="TIVIMATE (FREEMIUM)", CRACKLE [FHD]
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06LsI8a.png" group-title="TIVIMATE (FREEMIUM)", WIRED [HD]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pdga.com/files/u245721/outside_tv_logo.png" group-title="TIVIMATE (FREEMIUM)", OUTSIDE TV [HD]
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
