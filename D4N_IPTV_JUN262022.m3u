@@ -192,6 +192,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306885/images/logog.png?t=153899" group-title="TIVIMATE (FREEMIUM)", LAW AND CRIME NETWORK [HD]
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20394407_ico.png" group-title="TIVIMATE (FREEMIUM)", CRIME TIME USA [HD]
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TIVIMATE (FREEMIUM)", LOVE NATURE [FHD]
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
