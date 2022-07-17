@@ -7,34 +7,34 @@ https://ia601508.us.archive.org/17/items/BRKR-07-17-2022/BRKR-CH-JULY17-2022.mp4
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/1200px-Cinemo_logo_vectorized.svg.png" group-title="TIVIMATE (FREEMIUM)", CINEMO! [FHD]
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="TIVIMATE (FREEMIUM)", CNN PHILIPPINES [HD]
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Pilipinashd-transbg-wh-v2_%281%29.png" group-title="TIVIMATE (FREEMIUM)", PILIPINAS HD on BEAM TV [SD]
-http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Beam_31_logo.png/" group-title="TIVIMATE (FREEMIUM)", BEAM TV [SD]
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/ed/PTV_4_Logo_June_2017.png/" group-title="TIVIMATE (FREEMIUM)", PTV [HD]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/67/SMNI_Logo_2010.png" group-title="TIVIMATE (FREEMIUM)", SMNI [HD]
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png" group-title="TIVIMATE (FREEMIUM)", CLTV36 [HD]
-http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
+http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/__cXdfrwXlp0/SscWUOMQ3DI/AAAAAAAAAPg/btkDOYK4Ghs/w1200-h630-p-k-no-nu/DZRH.png" group-title="TIVIMATE (FREEMIUM)", DZRH NEWS [HD]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
 
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="TIVIMATE (FREEMIUM)", eGG NETWORK
-http://210.210.155.35/uq2663/h/h22/index.m3u8
+http://210.210.155.35/uq2663/h/h22/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="TIVIMATE (FREEMIUM)", SUPER RADYO DZBB [HD]
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8??checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
 
@@ -52,211 +52,211 @@ http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="TIVIMATE (FREEMIUM)", CCTN [HD]
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjceWIY7QjcCtu-L_S4X76zipgPIy_PnSlaAFcZLw=s900-c-k-c0x00ffffff-no-rj" group-title="TIVIMATE (FREEMIUM)", LIFETV PH [SD]
-https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CON TV ANIME [HD]
-https://contvanime-tcl.amagi.tv/playlist.m3u8
+https://contvanime-tcl.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CON TV ANIME [FHD]
-https://contvanime-localnow.cinedigm.com/playlist.m3u8
+https://contvanime-localnow.cinedigm.com/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="TIVIMATE (FREEMIUM)", MOONBUG KIDS USA [FHD]
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+https://moonbug-rokuus.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Zoomoo_2013_Logo.png/revision/latest/scale-to-width-down/300?cb=20210909123028" group-title="TIVIMATE (FREEMIUM)", ZOO MOO (KIDS) [FHD]
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Zoomoo_2013_Logo.png/revision/latest/scale-to-width-down/300?cb=20210909123028" group-title="TIVIMATE (FREEMIUM)", ZOO MOO (2) [HD]
-https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png" group-title="TIVIMATE (FREEMIUM)", HAPPY KIDS [FHD]
-https://happykids-roku.amagi.tv/playlist.m3u8
+https://happykids-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/514e3e26e4b023ca28fd5cc8/1567897620152-BM0TQ0CGEJVM3D1ZVERN/Kartoon-Circus-Logo-Magician-and-Clowns-2-on-Transparent-BG.png" group-title="TIVIMATE (FREEMIUM)", KARTOON CIRCUS
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pbskids/images/6/6d/PBS_Kids_Dot_Logo.png" group-title="TIVIMATE (FREEMIUM)", PBS KIDS [HD]
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="TIVIMATE (FREEMIUM)", CALIFORNIA MUSIC CHANNEL [HD]
-https://cmc-ono.amagi.tv/playlist.m3u8
+https://cmc-ono.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="TIVIMATE (FREEMIUM)", VEVO HIP-HOP (VAS) [FHD]
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV HD INDIA
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="TIVIMATE (FREEMIUM)", YO! MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV BIGGEST POP [HD]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="TIVIMATE (FREEMIUM)", MTV SPANKIN' NEW
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV BLOCK PARTY [HD]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="TIVIMATE (FREEMIUM)", THE BOX
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/192/666/png-transparent-turkey-show-tv-television-channel-show-tv-logo-television-text-logo.png" group-title="TIVIMATE (FREEMIUM)", SHOW TV (Turkey) [HD]
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="TIVIMATE (FREEMIUM)", GMM25
-http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
+http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png" group-title="TIVIMATE (FREEMIUM)", ONE31 [HD]
-http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
+http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Cinema-logo.png" group-title="TIVIMATE (FREEMIUM)", ZEE CINEMA INDIA [HD]
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="TIVIMATE (FREEMIUM)", ZEE TV INDIA [HD]
-http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TIVIMATE (FREEMIUM)", tVN [HD]
-http://210.210.155.35/dr9445/h/h20/index.m3u8
+http://210.210.155.35/dr9445/h/h20/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="TIVIMATE (FREEMIUM)", tVN MOVIES [HD]
-http://210.210.155.35/dr9445/h/h21/index.m3u8
+http://210.210.155.35/dr9445/h/h21/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="TIVIMATE (FREEMIUM)", K PLUS [SD]
-http://210.210.155.35/uq2663/h/h08/index1.m3u8
+http://210.210.155.35/uq2663/h/h08/index1.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="TIVIMATE (FREEMIUM)", ARIRANG [FHD]
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png" group-title="TIVIMATE (FREEMIUM)", THRILL [SD]
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Smosh_2013_logo_2.png/revision/latest?cb=20160118144145" group-title="TIVIMATE (FREEMIUM)", SMOSH (VAS) [HD]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="TIVIMATE (FREEMIUM)", CGTN Documentary
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
+http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1280px-TV_Tokyo_logo_20110629.svg.png" group-title="TIVIMATE (FREEMIUM)", TV TOKYO [HD]
 http://203.162.235.41:16908
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="TIVIMATE (FREEMIUM)", CNA [HD]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Global_National_2013.png" group-title="TIVIMATE (FREEMIUM)", GLOBAL NEWS NATIONAL
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://files.company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png?ver=2" group-title="TIVIMATE (FREEMIUM)", FASHION TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/8-81628_best-movies-channel-hd-png-download.png" group-title="TIVIMATE (FREEMIUM)", MOVIES X [HD]
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png" group-title="TIVIMATE (FREEMIUM)", MOVIESPHERE [HD]
-https://moviesphere-plex.amagi.tv/playlist.m3u8
+https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TIVIMATE (FREEMIUM)", AMC [HD]
-https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://re-how.net/wp-content/uploads/2021/04/d10071-98-460772-6.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA [HD]
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://re-how.net/wp-content/uploads/2021/04/d10071-98-460772-6.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA (2) [HD]
-http://210.210.155.37/dr9445/h/h141/index.m3u8
+http://210.210.155.37/dr9445/h/h141/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
-http://ip2121.com:8081/web1/hbo/playlist.m3u8
+http://ip2121.com:8081/web1/hbo/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (former Blue Ant Ent.) [SD]
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (2) [HD]
-http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02110028/rock-extreme-logo-300x300.png" group-title="TIVIMATE (FREEMIUM)", ROCK EXTREME [SD]
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="TIVIMATE (FREEMIUM)", HITS
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+http://210.210.155.37/dr9445/h/h37/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png" group-title="TIVIMATE (FREEMIUM)", CRACKLE [FHD]
-http://crackle-xumo.amagi.tv/playlist.m3u8
+http://crackle-xumo.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06LsI8a.png" group-title="TIVIMATE (FREEMIUM)", WIRED [HD]
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.pdga.com/files/u245721/outside_tv_logo.png" group-title="TIVIMATE (FREEMIUM)", OUTSIDE TV [HD]
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="TIVIMATE (FREEMIUM)", INSIGHT TV [HD]
-https://insighttv-vizio.amagi.tv/playlist.m3u8
+https://insighttv-vizio.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="TIVIMATE (FREEMIUM)", HAUNT TV (FHD)
-https://haunttv-roku.amagi.tv/playlist.m3u8
+https://haunttv-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
-https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
+https://edgesport-samsungus.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="TIVIMATE (FREEMIUM)", FOX SPORTS 1 AU [HD]
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/46-462953_red-bull-tv-logo-red-bull-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", REDBULL TV [HD]
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306885/images/logog.png?t=153899" group-title="TIVIMATE (FREEMIUM)", LAW AND CRIME NETWORK [HD]
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20394407_ico.png" group-title="TIVIMATE (FREEMIUM)", CRIME TIME USA [HD]
-https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="TIVIMATE (FREEMIUM)", LOVE NATURE [FHD]
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://getlogo.net/wp-content/uploads/2020/10/smithsonian-channel-logo-vector.png" group-title="TIVIMATE (FREEMIUM)", SMITHSONIAN CHANNEL [FHD]
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1280px-NASA_TV.svg.png" group-title="TIVIMATE (FREEMIUM)", NASA TV [HD]
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Animal-Planet-Logo.png" group-title="TIVIMATE (FREEMIUM)", ANIMAL PLANET [SD]
 http://203.77.246.50:5000/udp/239.1.2.136:5000
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="TIVIMATE (FREEMIUM)", IN WILD [HD]
-https://inwild-samsungau.amagi.tv/playlist.m3u8
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="TIVIMATE (FREEMIUM)", OUTDOOR CHANNEL [FHD]
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="TIVIMATE (FREEMIUM)", XPLORE CHANNEL [SD]
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
+http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 
 
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="ADDITIONAL", MY CINEMA [HD]
-http://210.210.155.35/uq2663/h/h192/index.m3u8
+http://210.210.155.35/uq2663/h/h192/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png"  group-title="ADDITIONAL", NBA TV USA
-http://51.161.84.67/LB2022_NBA_TV/index.m3u8
+http://51.161.84.67/LB2022_NBA_TV/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png"  group-title="ADDITIONAL", NBA TV USA (2)
-http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ADDITIONAL", STAR MOVIES [HD]
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/09/SPOTV_LOGO-01-w-2.png" group-title="ADDITIONAL", SPOTV 1 [HD]
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/09/SPOTV_LOGO-01-w-2.png" group-title="ADDITIONAL", SPOTV 2 [HD]
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?checkedby:D4N-IPTV
 
 
 
