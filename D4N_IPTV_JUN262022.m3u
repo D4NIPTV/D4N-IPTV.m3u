@@ -99,7 +99,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8?
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="TIVIMATE (FREEMIUM)", MTV SPANKIN' NEW
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8?checkedby:D4N-IPTV
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV BLOCK PARTY [HD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/MTV-logo-2021.png" group-title="TIVIMATE (FREEMIUM)", MTV MIAW [HD]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="TIVIMATE (FREEMIUM)", THE BOX
@@ -180,7 +180,7 @@ http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02110028/rock-extreme-logo-300x300.png" group-title="TIVIMATE (FREEMIUM)", ROCK EXTREME [SD]
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8?checkedby:D4N-IPTV
 
-#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="TIVIMATE (FREEMIUM)", HITS
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/img/hits-movies-logo.png" group-title="TIVIMATE (FREEMIUM)", HITS [HD]
 http://210.210.155.37/dr9445/h/h37/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sony_Crackle_Logo.png" group-title="TIVIMATE (FREEMIUM)", CRACKLE [FHD]
@@ -195,7 +195,7 @@ https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="TIVIMATE (FREEMIUM)", INSIGHT TV [HD]
 https://insighttv-vizio.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="TIVIMATE (FREEMIUM)", HAUNT TV (FHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="TIVIMATE (FREEMIUM)", HAUNT TV [FHD]
 https://haunttv-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
@@ -237,6 +237,9 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 
 
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="ADDITIONAL", BBC AMERICA [HD]
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:D4N-IPTV
 
@@ -260,50 +263,11 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", EVERYTHING EVERYWHERE ALL AT ONCE
-https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD (LIMITED TIME ONLY)", DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS
-https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfU0t9uwP6tEukjW03mtE0TRWf8uvKk9QWQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", TOP GUN MAVERICK
-https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OGjABQk-IPKhJe0sHkuOwYvMP052V7bugQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", UNCHARTED
-https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAsI9S4pfkFnhCCPACYqqLxgWb3xniNElRw&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", FANTASTIC BEASTS: THE SECRETS OF DUMBLEDORE
-https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtNJVqlJwFYWm9Q3FX4HfyuNQvI_lWNgRdw&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", THE LOST CITY
-https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzH9AQlr_-Sw1Qqb2fexoGkjpW6n8Qx3LoQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", SONIC THE HEDGEHOG
-https://stream.xpeer.xyz/playlist1/sonic-the-hedgehog-2-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Z1tGc8w8M3n5PPpYkWowQS5ksymsjzuiWQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", THOR LOVE AND THUNDER
-https://stream.xpeer.xyz/playlist1/thor-love-and-thunder-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsKXTTcm6BxOGEbSYb6d79OgCvzOlZECuQQ&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", K.G.F CHAPTER 2
-https://stream.xpeer.xyz/playlist1/k-g-f-chapter-2-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd0VnYdaOj9kBEVlHNSOf-1OQ0bEfU6b7mDg&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", BAHUBALI 2 (The Conclusion)
-https://stream.xpeer.xyz/playlist1/baahubali-2-conclusion-2017/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiNDM4NjYtZDMyMS00YTgyLWIzMWYtNmFhMjBiNWJiN2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="VOD (LIMITED TIME ONLY)", ANEK
-https://stream.xpeer.xyz/playlist1/anek-2022/master_480.m3u8#.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYw1ZgOo53aiZHNuncB62ym2ITQVsjYubloA&usqp=CAU" group-title="VOD (LIMITED TIME ONLY)", SPIDER MAN: NO WAY HOME
-https://stream.xpeer.xyz/playlist1/spider-man-no-way-home-2021/master_480.m3u8#.mp4
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="TIVIMATE (FREEMIUM)",
 
 #EXTINF:-1 tvg-logo="" group-title="ADDITIONAL",
 
-#EXTINF:-1 tvg-logo="" group-title="VOD (LIMITED TIME ONLY)",
+#EXTINF:-1 tvg-logo="" group-title="",
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
