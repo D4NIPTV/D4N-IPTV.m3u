@@ -261,6 +261,9 @@ http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png" group-title="ADDITIONAL", STAR MOVIES [HD]
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mq7PBDN.png" group-title="ADDITIONAL", SO YUMMY! [HD]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://uploads-sportbusiness.imgix.net/uploads/2021/09/SPOTV_LOGO-01-w-2.png" group-title="ADDITIONAL", SPOTV 1 [HD]
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?checkedby:D4N-IPTV
 
