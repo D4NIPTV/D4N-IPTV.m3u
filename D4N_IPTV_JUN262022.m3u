@@ -249,6 +249,9 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8?checkedb
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="ADDITIONAL", CINEMAX [HD]
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="ADDITIONAL", MY CINEMA [HD]
 http://210.210.155.35/uq2663/h/h192/index.m3u8?checkedby:D4N-IPTV
 
