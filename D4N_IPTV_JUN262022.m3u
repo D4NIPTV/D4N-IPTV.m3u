@@ -57,6 +57,9 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedb
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjceWIY7QjcCtu-L_S4X76zipgPIy_PnSlaAFcZLw=s900-c-k-c0x00ffffff-no-rj" group-title="TIVIMATE (FREEMIUM)", LIFETV PH [SD]
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="TIVIMATE (FREEMIUM)", CON TV USA [HD]
+https://contv-junction.cinedigm.com/ingest/playlist.m3u8?checkedby:D4N-IPTV
+
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CON TV ANIME [HD]
 https://contvanime-tcl.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
@@ -238,10 +241,10 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="ADDITIONAL", BBC AMERICA [HD]
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png" group-title="ADDITIONAL", BBC LIFESTYLE ASIA [HD]
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/cnn-international-logo.png" group-title="ADDITIONAL", CNN INTERNATIONAL [HD]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:D4N-IPTV
