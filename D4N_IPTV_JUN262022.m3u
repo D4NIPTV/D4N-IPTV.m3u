@@ -106,7 +106,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8?
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="TIVIMATE (FREEMIUM)", THE BOX
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/192/666/png-transparent-turkey-show-tv-television-channel-show-tv-logo-television-text-logo.png" group-title="TIVIMATE (FREEMIUM)", SHOW TV (Turkey) [HD]
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:D4N-IPTV
