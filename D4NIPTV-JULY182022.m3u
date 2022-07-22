@@ -45,14 +45,8 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedb
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjceWIY7QjcCtu-L_S4X76zipgPIy_PnSlaAFcZLw=s900-c-k-c0x00ffffff-no-rj" group-title="TIVIMATE (FREEMIUM)", LIFETV PH [SD]
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8?checkedby:D4N-IPTV
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" group-title="TIVIMATE (FREEMIUM)", CON TV USA [HD]
-https://contv-junction.cinedigm.com/ingest/playlist.m3u8?checkedby:D4N-IPTV
-
 #EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CON TV ANIME [HD]
 https://contvanime-tcl.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
-
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CON TV ANIME [FHD]
-https://contvanime-localnow.cinedigm.com/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012020/moonbug_kids_on_white.png" group-title="TIVIMATE (FREEMIUM)", MOONBUG KIDS USA [FHD]
 https://moonbug-rokuus.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
@@ -95,9 +89,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="TIVIMATE (FREEMIUM)", THE BOX
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?checkedby:D4N-IPTV
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/192/666/png-transparent-turkey-show-tv-television-channel-show-tv-logo-television-text-logo.png" group-title="TIVIMATE (FREEMIUM)", SHOW TV (Turkey) [HD]
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="TIVIMATE (FREEMIUM)", GMM25
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8?checkedby:D4N-IPTV
@@ -152,12 +143,6 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TIVIMATE (FREEMIUM)", AMC [HD]
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8?checkedby:D4N-IPTV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA [HD]
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8?checkedby:D4N-IPTV
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="TIVIMATE (FREEMIUM)", AXN ASIA (2) [HD]
-http://210.210.155.37/dr9445/h/h141/index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:D4N-IPTV
