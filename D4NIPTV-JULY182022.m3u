@@ -153,6 +153,9 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IP
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/p5/ch_fr/smart-tv/samsung-tv-plus/FR_Comedy_TV_Plus_476x476_Circle.png" group-title="TIVIMATE (FREEMIUM)", RAKUTEN COMEDY MOVIES U.K [HD]
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="TIVIMATE (FREEMIUM)", RAKUTEN TV SHOWS U.K [HD]
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (former Blue Ant Ent.) [SD]
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8?checkedby:D4N-IPTV
 
