@@ -144,6 +144,9 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="TIVIMATE (FREEMIUM)", AMC [HD]
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/667658/dc4ec60cc6dc7bdd4180cd4d71bd478359fa00a3.png" group-title="TIVIMATE (FREEMIUM)", CONtv U.S.A [HD]
+https://contv-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:D4N-IPTV
 
@@ -154,10 +157,10 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IP
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="TIVIMATE (FREEMIUM)", RAKUTEN TOP FREE U.K [HD]
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png" group-title="TIVIMATE (FREEMIUM)", RAKUTEN TV SHOWS U.K [HD]
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (former Blue Ant Ent.) [SD]
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8?checkedby:D4N-IPTV
@@ -218,6 +221,9 @@ http://203.77.246.50:5000/udp/239.1.2.136:5000
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19763563_ico.png?ts=1654806694" group-title="TIVIMATE (FREEMIUM)", IN WILD [HD]
 https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/travelxp.png" group-title="TIVIMATE (FREEMIUM)", TRAVEL XP [HD]
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="TIVIMATE (FREEMIUM)", XPLORE CHANNEL [SD]
 http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
