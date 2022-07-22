@@ -174,6 +174,9 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="TIVIMATE (FREEMIUM)", HAUNT TV [FHD]
 https://haunttv-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.K [HD]
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
 
