@@ -147,6 +147,12 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/223-2235434_hbo-logo-blue-hbo-logo-png-transparent.png" group-title="TIVIMATE (FREEMIUM)", HBO ASIA [FHD]
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8?checkedby:D4N-IPTV
 
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="TIVIMATE (FREEMIUM)", RAKUTEN ACTION MOVIES U.K [HD]
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IPTV
+
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/p5/ch_fr/smart-tv/samsung-tv-plus/FR_Comedy_TV_Plus_476x476_Circle.png" group-title="TIVIMATE (FREEMIUM)", RAKUTEN COMEDY MOVIES U.K [HD]
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:D4N-IPTV
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z4-FZB8IBiY/WxIY_yjw4QI/AAAAAAAAlgE/cKry-W8zVzwLMqOIakOp7ej5cmRYNVHugCLcBGAs/s1600/blue-ant-entertainment-channel-tv-logo.png" group-title="TIVIMATE (FREEMIUM)", ROCK ENTERTAINMENT (former Blue Ant Ent.) [SD]
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8?checkedby:D4N-IPTV
 
@@ -175,7 +181,7 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 https://haunttv-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.K [HD]
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.eleague.com/2018-07/Edge_Logo_light_RGB.png" group-title="TIVIMATE (FREEMIUM)", EDGE SPORTS U.S.A [HD]
 https://edgesport-samsungus.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
